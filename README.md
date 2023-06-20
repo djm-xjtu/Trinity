@@ -11,6 +11,7 @@
 - [CS7NS2: INTERNET OF THINGS](https://github.com/djm-xjtu/SmartBin)
 - [CS7NS5: SECURITY AND PRIVACY](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/Security)
 
+To support me, you can ⭐ this repo
 
 ### Licence
 [MIT](https://opensource.org/licenses/MIT)
