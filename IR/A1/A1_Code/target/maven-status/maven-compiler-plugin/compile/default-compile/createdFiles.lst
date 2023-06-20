@@ -1,0 +1,9 @@
+Parser/CranQueryParser.class
+Start.class
+model/QueryModel.class
+Parser/CranDocParser.class
+model/CranDocModel.class
+Index/Indexer.class
+analyzer/CustomAnalyzer.class
+Index/DocumentCreator.class
+Search/Searcher.class
