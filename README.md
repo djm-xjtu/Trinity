@@ -1,6 +1,6 @@
 ### Almost all of the reports and codes for Trinity Msc of Computer Science courses
-- [CS7CS4: MACHINE LEARNING](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/ML)
-- [CS7CS6: RESEARCH AND INNOVATION METHODS](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/Innovation/A1)
+- [CS7CS4: MACHINE LEARNING](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/CS7CS4-Machine Learning)
+- [CS7CS6: RESEARCH AND INNOVATION METHODS](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/CS7CS6-Research And Innovation Methods/A1)
 - [CS7DS1: DATA ANALYTICS](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/DA)
 - [CS7DS2: OPTIMISATION ALGORITHMS FOR DATA ANALYSIS](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/OP)
 - [CS7DS3: APPLIED STATISTICAL MODELLING](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/ASM)
