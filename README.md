@@ -10,3 +10,10 @@
 - [CS7NS1-202223: SCALABLE COMPUTING](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/SC)
 - [CS7NS2-202223: INTERNET OF THINGS](https://github.com/djm-xjtu/SmartBin)
 - [CS7NS5-202223: SECURITY AND PRIVACY](https://github.com/djm-xjtu/Trinity-Msc-CompSci/tree/master/Security)
+
+
+### Licence
+[MIT](https://opensource.org/licenses/MIT)
+
+
+Copyright (c) 2023-present
