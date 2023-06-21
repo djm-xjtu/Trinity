@@ -13,6 +13,8 @@
 
 To support me, you can ⭐ this repo
 
+To contribute to the project, feel free to pull request if you want to make this project better:)
+
 ### Licence
 [MIT](https://opensource.org/licenses/MIT)
 
